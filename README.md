@@ -21,6 +21,13 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicaç
 ![TaskImg](https://res.cloudinary.com/dloadb2bx/image/upload/v1635994605/todoList_i8jcgj.gif)
 
 
+## Como rodar a aplicação?
+
+Para rodar a aplicação baixe ou clone este repositório. Em seguida instale a pasta node_modules com o comando `yarn start`. Por fim rode o comando `yarn dev` para iniciar a aplicação em `localhost:8080`.
+
+
+
 ## Testes
 
+Para rodar os testes rode o comando `yarn test`.
 ![TestImg](https://res.cloudinary.com/dloadb2bx/image/upload/v1635994970/testsReact_jkkwvt.png)
